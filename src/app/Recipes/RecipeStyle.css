@@ -1,0 +1,26 @@
+.recipe-detail-bg{
+    background-image:url("./bg.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.recipe-detail{
+    margin-top: 5rem;
+    width:70%;
+    background-color: rgb(248, 123, 88);
+    color: black;
+    opacity: 0.9;
+    margin:0px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    font-size:larger;
+}
+.recipe-detail img{
+    width:25rem;
+    height:18rem;
+}
+
+
