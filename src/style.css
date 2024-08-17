@@ -170,7 +170,7 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: #007bff;
+  background-color:#f85223;
   color: white;
   text-align: center;
   padding: 15px;
@@ -178,10 +178,6 @@
   border: none;
   cursor: pointer;
   z-index: 101;
-}
-
-.toggle-favorites-btn:hover {
-  background-color: #f85223;
 }
 
 /* Mobile Styles */
@@ -217,7 +213,6 @@
     align-items: center;
     justify-content: center;
     padding: 10px;
-    background-color: transparent;
     border: 1px solid #ddd;
     border-radius: 8px;
     cursor: pointer;
